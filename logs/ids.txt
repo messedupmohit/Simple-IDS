@@ -1,0 +1,2 @@
+# logs/ids.log
+# Log file will be generated here after running the IDS
